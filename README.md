@@ -21,6 +21,6 @@ A simple CRUD example in NodeJS
 
 - `yarn dev` to run server(you can find the script in package.json)
 
-- You need to set in [Insomnia](https://insomnia.rest/download/) or[Postman](https://www.getpostman.com/) to test the routes
+- You need to set in [Insomnia](https://insomnia.rest/download/) or [Postman](https://www.getpostman.com/) to test the routes
 
 
