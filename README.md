@@ -7,7 +7,7 @@ A simple CRUD in NodeJS example
 
 - `GET /projects`: Route that lists all projects and their tasks;
 
-- `PUT /projects/:id`: A rota deve alterar apenas o título do projeto com o `id` presente nos parâmetros da rota;
+- `PUT /projects/:id`: The route should only change the project title with the id present in the route parameters;
 
 - `DELETE /projects/:id`: The route should only change the project title with the `id` present in the route parameters;
 
