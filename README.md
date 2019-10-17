@@ -1,5 +1,5 @@
 # crudNodeJS
-A simple CRUD in NodeJS example 
+A simple CRUD example in NodeJS  
 
 ### Routes
 
